@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zolender
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning TOP curriculum 
-- 💞️ I’m looking to collaborate on small projects with whoever finds me useful
+- 🌱 And mobile app development with flutterfor now
+- 💞️ I’m looking to collaborate on projects with whoever finds me useful
 - 📫 How to reach me : on Linkedin
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I wanted to be a footballer, not that fun...
