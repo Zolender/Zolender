@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zolender
-- 👀 I’m interested in web development
-- 🌱 And mobile app development with flutterfor now
+- 👀 I’m interested in web development, data analysis
+- 🌱 And mobile app development with flutter for now
 - 💞️ I’m looking to collaborate on projects with whoever finds me useful
 - 📫 How to reach me : on Linkedin
 - 😄 Pronouns: He/him
