@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Zolender
+- 👋 Hi, I’m Eben-Ezer Ndeingar
 - 👀 I’m interested in web development, data analysis
-- 🌱 And mobile app development with flutter for now
-- 💞️ I’m looking to collaborate on projects with whoever finds me useful
-- 📫 How to reach me : on Linkedin
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I wanted to be a footballer, not that fun...
+## About Me
+I'm a computer science student working on my skills and leveraging them to produce  impactful and professional Web products
+
+## What I use as techs and tools:
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript, React.js, numpy
+- **Tools**: Git, Github, Vs code, npm, JN
+
+
 
 <!---
 Zolender/Zolender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
