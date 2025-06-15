@@ -4,7 +4,7 @@
 I'm a computer science student working on my skills and leveraging them to produce  impactful and professional Web products
 
 ## What I use as techs and tools:
-- **Frontend**: HTML, CSS, Bootstrap, JavaScript, React.js, numpy
+- **Frontend**: HTML, CSS, Bootstrap, JavaScript, React.js
 - **Tools**: Git, Github, Vs code, npm, JN
 
 
