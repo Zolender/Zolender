@@ -1,15 +1,39 @@
-# 💫 About Me:
-I’m an aspiring full-stack developer focused on building real, practical projects. My main stack is JavaScript (frontend & backend) along with Tailwind CSS for fast, clean UI design.<br><br>I also have basic experience with Python, Java, C, and C++, and I’m steadily strengthening my foundations as I work toward becoming a solid full-stack engineer. I enjoy learning by building, breaking things, and refining them until they make sense.<br><br>I’m always open to collaboration, feedback, and new challenges that help me grow as a developer.
+# Eben-Ezer Ndeingar
 
+I am a Computer Science student at the University of Kigali and a trainee at The Gym Rwanda. Currently, I am focused on bridging the gap between writing code that simply works and writing code that is intentional and maintainable. 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zolender23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eben-ezer-ndeingar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ndeingare@gmail.com) 
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I spend most of my time in the JavaScript/TypeScript ecosystem, moving from a period of "learning by doing" into a more disciplined study of full-stack architecture and system logic.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Zolender&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Technical Ecosystem
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | React, TypeScript, Redux Toolkit, React Router |
+| **Styling** | Tailwind CSS, Framer Motion |
+| **Backend** | Node.js, Express, PostgreSQL (with supabase), MongoDB (Current Focus) |
+| **Data & Logic** | Zod, Prisma, Supabase |
+
+---
+
+### Current Mission
+
+* **Academic:** Finalizing my Computer Science degree (Expected 2027).
+* **Technical:** Shifting from a localStorage and client-side rendering-based application to deep-diving into Node.js and MongoDB/PostgreSQL.
+* **Development:** Building a minimalist Kanban system to practice complex state management.
+* **Future:** Transitioning towards Mobile Development and exploring Financial Technology logic or maybe AI and ML.
+
+---
+
+### Proof of Work
+
+![Zolender's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zolender&show_icons=true&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zolender&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+### Contact
+
+* **LinkedIn:** [link](https://linkedin.com/in/eben-ezer-ndeingar)
+* **Email:** [link](ndeingare@gmail.com)
