@@ -12,7 +12,7 @@ I spend most of my time in the JavaScript/TypeScript ecosystem, moving from a pe
 | :--- | :--- |
 | **Frontend** | React, TypeScript, Redux Toolkit, React Router |
 | **Styling** | Tailwind CSS, Framer Motion |
-| **Backend** | Node.js, Express, PostgreSQL (with supabase), MongoDB (Current Focus) |
+| **Backend** | Node.js, Express, PostgreSQL, Postman |
 | **Data & Logic** | Zod, Prisma, Supabase |
 
 ---
