@@ -21,8 +21,8 @@ I spend most of my time in the JavaScript/TypeScript ecosystem, moving from a pe
 
 * **Academic:** Finalizing my Computer Science degree (Expected 2027).
 * **Technical:** Shifting from a localStorage and client-side rendering-based application to deep-diving into Node.js and MongoDB/PostgreSQL.
-* **Development:** Building a minimalist Kanban system to practice complex state management.
-* **Future:** Transitioning towards Mobile Development and exploring Financial Technology logic or maybe AI and ML.
+* **Development:** Building a full working Blog(multi-users, comments, likes etc...).
+* **Future:** Looking forward to the transition towards Mobile Development and exploring Financial Technology logic, or maybe AI and ML.
 
 ---
 
