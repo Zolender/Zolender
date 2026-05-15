@@ -36,4 +36,4 @@ I spend most of my time in the JavaScript/TypeScript ecosystem, moving from a pe
 ### Contact
 
 * **LinkedIn:** [link](https://linkedin.com/in/eben-ezer-ndeingar)
-* **Email:** [link](ndeingare@gmail.com)
+* **Email:** [link](mailto:ndeingare@gmail.com)
