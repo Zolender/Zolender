@@ -21,7 +21,7 @@ I spend most of my time in the JavaScript/TypeScript ecosystem, moving from a pe
 
 * **Academic:** Finalizing my Computer Science degree (Expected 2027).
 * **Technical:** Shifting from a localStorage and client-side rendering-based application to deep-diving into Node.js and MongoDB/PostgreSQL.
-* **Development:** On my way to mastering WebSockets with socket.io(while sharpening my mongoDB knowledge day after day)
+* **Development:** On my way to mastering WebSockets with socket.io and deepening my knowledge of RESTful APIs
 * **Future:** Looking forward to the transition towards Mobile Development and exploring Financial Technology logic, or maybe AI and ML.
 
 ---
